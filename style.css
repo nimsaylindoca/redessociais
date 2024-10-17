@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+:root{
+    --cor-de-fundo: #fab4cc;
+    --cor-primaria: #df7286;
+    --cor-secundaria: #971549;
+    --cor-do-texto: #ffffff;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-do-texto);
+    font-family: "Josefin Sans", serif;
+}
+header{
+    background-color: var(--cor-secundaria);
+}
+footer{
+    background-color: var(--cor-secundaria);
+    color: var(--cor-do-texto);
+}
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
